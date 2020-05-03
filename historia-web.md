@@ -19,4 +19,5 @@ Hoje em tempos modernos, podemos observar inumeras bibliotecas e frameworks que 
 
 ### Explicando o DOM
 o DOM (Document Object Model) nada mais é que a interface representada com os documentos HTML e XML quando são lidos pelo seu browser. Após o browser ler seu HTML, ele cria um objeto que faz uma representação estruturada do seu documento e define meios de como essa estrutura pode ser acessada. Nós podemos visualizar e até mesmo fazer manipulação do DOM usando JavaScript, essa é a forma mais fácil e usada, veja abaixo a imagem do DOM. <br>
-![Imagem do DOM](https://mdn.mozillademos.org/files/854/whitespace_tree.png);
+![Imagem do DOM](https://mdn.mozillademos.org/files/854/whitespace_tree.png); (imagem retirada do Google) <br>
+Vimos acima o exemplo da hierarquia do DOM, cada parte dessa é chamada de NodeDOM (Não confunda o NodeDOM com NodeJS). Esses Nodes (nós), nos mostram uma árvore das famílias de vários elementos, nessa árvore temos elementos que podem continuar gerações e outros que não. Veremos sobre as tags e o comportamento dessa ávore no próximo documento.
